@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[batili]]></title>
         <description><![CDATA[batili]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/batili/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:38:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 16:41:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/batili/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=XisOVzJ32_g</p>]]></description>
+            <link>https://thegrid.ai/batili/httpswwwyoutubecomwatchvxisovzj32_g/index.html</link>
+            <guid isPermaLink="false">51d58233-8302-4948-9e07-68fc0f503f35</guid>
+            <pubDate>Fri, 29 Apr 2016 16:41:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When are you in the Flow?]]></title>
             <description><![CDATA[<article><h1>When are you in the Flow?</h1><p>I truly hate the banality and sickening commercialism of self help books. Or the new age pseudo science stuff, or new spirituality.  But I always browse them when in the bookstore, and if any of them catches my eye for more than 10 seconds, I take a photo of the cover, to check back them on interwebs if they are truly worth something. I stumbled upon a few gems during the last decades like one or two “</p></article>]]></description>
-            <link>undefinedwhen-are-you-in-the-flow/index.html</link>
+            <link>https://thegrid.ai/batili/when-are-you-in-the-flow/index.html</link>
             <guid isPermaLink="false">ed77c011-470c-4861-9859-5e6f54f1e496</guid>
             <pubDate>Fri, 29 Apr 2016 16:38:04 GMT</pubDate>
         </item>
