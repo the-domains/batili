@@ -1,0 +1,28 @@
+name: batili
+favicon: null
+layout_spectrum: 0.4106948017142713
+typography_spectrum: 0.9817153576295823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24894118937663734
+  lightness: 0.511972178472206
+  saturation: 0.75941381463781
+  rhythmicContrast: 0.1122751273214817
+purpose: []
